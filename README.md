@@ -4,6 +4,9 @@ Bu proje, basit bir programlama dili için **sözdizimi renklendirme (syntax hig
 
 Proje, Python dili ve Tkinter grafik arayüz kütüphanesi kullanılarak oluşturulmuştur.
 
+[Proje videosunu izlemek için buraya tıkla](https://www.youtube.com/watch?v=568QkIR69jE)
+[Projenin makalesini okumak için buraya tıkla] (https://medium.com/@selinnnn14/basit-bir-derleyici-%C3%B6n-ucu-front-end-geli%C5%9Ftirdim-lexical-s%C3%B6zdizim-analizi-ve-syntax-aa41537b9cf1)
+
 ---
 
 ## Proje Özeti
